@@ -5,7 +5,7 @@ using Microsoft.Data.Sqlite;
 internal class Bot
 {
     TwitchClient client = new TwitchClient();
-    ConnectionCredentials credentials = new ConnectionCredentials("themisha34bot", "oauth:mgccxn63ulz86gv22hfsqcc0eyh3gp");
+    ConnectionCredentials credentials = new ConnectionCredentials("themisha34bot", "idk");
     int duel_queue = 1;
 
     public Bot()
